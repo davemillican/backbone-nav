@@ -353,7 +353,8 @@ td,
 th {
   padding: 0; }
 
-.averages {
-  background-color: #283c78; }
+.is-active {
+  background-color: #2F9F99;
+  color: white; }
 
 /*# sourceMappingURL=main.css.map */
